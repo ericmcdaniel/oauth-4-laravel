@@ -5,12 +5,6 @@
     "keywords": ["OAuth", "Lusitanian", "laravel", "php"],
     "homepage": "https://github.com/ericmcdaniel/oauth-4-laravel",
     "license": "MIT",
-    "repositories": [
-    	{
-    	    "url": "https://github.com/Dragonrun1/PHPoAuthLib.git",
-    	    "type": "git"
-    	}
-    ],
     "authors": [
         {
             "name": "Artdarek",
